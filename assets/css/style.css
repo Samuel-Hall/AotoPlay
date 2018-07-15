@@ -1,0 +1,52 @@
+html, body {
+    color: rgb(255, 255, 255);
+    background-image: url(../images/gradient-wallpaper.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+nav {
+    background-color: #9269D9;
+}
+#triLogo {
+    height: 60px;
+    width: 80px;
+}
+.triContent {
+    background-color: rgb(46, 46, 46);
+    opacity: 0.7;
+    margin-top: 10px;
+}
+.triText {
+    opacity: 1.0;
+}
+#aotoPlay {
+    height: 300px;
+    width: auto;
+    background-image: url(../images/androidHeadphones.jpg);
+    padding-top: 150px;
+}
+#virtualReality {
+    height: 300px;
+    width: auto;
+    background-image: url(../images/virtualReality.jpg);
+    padding-top: 150px;
+}
+#butterRobot {
+    height: 300px;
+    width: auto;
+    background-image: url(../images/butterRobot.jpg);
+    padding-top: 150px;
+}
+.productOverlap {
+    background-color: #009BD8;
+    width: auto;
+    height: 60px;
+    /* margin-top: 80px; */    
+    opacity: 0.7;
+}
+.productLink {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin: 0 auto 15px auto;
+}
